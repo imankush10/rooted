@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Fresh Berries",
+        "count": 7
+    },
+    {
+        "name": "Organic Greens",
+        "count": 9
+    },
+    {
+        "name": "Farm-Fresh Dairy",
+        "count": 330
+    },
+    {
+        "name": "Local Vegetables",
+        "count": 201
+    },
+    {
+        "name": "Artisanal Jams",
+        "count": 73
+    },
+    {
+        "name": "Farm Brunch Boxes",
+        "count": 118
+    },
+    {
+        "name": "Homemade Cakes",
+        "count": 36
+    },
+    {
+        "name": "Seasonal Fruits",
+        "count": 282
+    },
+    {
+        "name": "Farm-Fresh Eggs",
+        "count": 30
+    },
+    {
+        "name": "Heritage Grains",
+        "count": 5
+    },
+    {
+        "name": "Healthy Produce",
+        "count": 247
+    },
+    {
+        "name": "Organic Spices",
+        "count": 112
+    },
+    {
+        "name": "Farm Meal Kits",
+        "count": 129
+    },
+    {
+        "name": "Fresh Pancakes",
+        "count": 15
+    },
+    {
+        "name": "Wood-Fired Pizza",
+        "count": 208
+    },
+    {
+        "name": "Homemade Soups",
+        "count": 8
+    },
+    {
+        "name": "Farm-To-Go",
+        "count": 87
+    },
+    {
+        "name": "Handmade Wraps",
+        "count": 99
+    }
+]
